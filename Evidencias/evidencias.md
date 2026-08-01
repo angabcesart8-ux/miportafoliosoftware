@@ -1,0 +1,2 @@
+# Evidencias de aprendizaje
+En esta sección se almacenan evidencias de los trabajos realizados durante el proceso de formación, incluyendo actividades, ejercicios y documentos relacionados con el aprendizaje de programación y desarrollo de software.
